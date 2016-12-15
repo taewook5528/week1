@@ -1,5 +1,5 @@
 /*
- *filename : AddMember.java
+ *filename : AddProduct.java
  *author : team Tic Toc
  *since : 2016.12.01
  *purpose/function : 이 소스코드에서는 새로운 상품이 재고에 추가되었을 경우, 그 새로운 상품의 재고량 정보(상품명, 최대수용가능 수량, 최소유지재고 수량 등)
